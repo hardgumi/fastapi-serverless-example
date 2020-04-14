@@ -8,4 +8,5 @@ ServerlessFramework,FastAPI Example
 - ServerlessFramework@1.67.3
 - direnv@2.21.2
 - venv
--
+- fastapi@0.54.1
+- uvicorn@0.11.3
