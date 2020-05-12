@@ -1,4 +1,4 @@
-# sls-fastapi-example
+# fastapi-serverless-example
 
 ServerlessFramework,FastAPI Example
 
